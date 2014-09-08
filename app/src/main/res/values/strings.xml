@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Fun Facts Treehouse Project</string>
+    <string name="did_you_know">Did you know?</string>
+    <string name="show_fact_button">Show another Fun Fact</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
